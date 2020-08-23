@@ -145,7 +145,7 @@ body {
     background-image: linear-gradient( to right, #d5ab63 50%, #cba159 50% );
   }
   
-  @keyframes eye {
+    .eye {
     0% {left: 0px}
     100% {right: 20%}
   }
